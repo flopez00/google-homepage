@@ -1,0 +1,1 @@
+This is my first project with TOP. My goal is to become a skilled software developer. I am having a lot of fun working through courses on Zenva, The Odin Project and even youtube tutorials. Just trying to learn as mucxh as i can and become comfortable with creating code and solving problems.
