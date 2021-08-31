@@ -14,8 +14,9 @@ input {
    justify-content: center;
     margin: auto;
     width: 30%;
-    height: 41px;
+    height: 45px;
     border-radius: 25px;
+    border-style: solid;
     
 }
 
