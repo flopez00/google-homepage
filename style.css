@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+}
+
+input {
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    padding: 5px;
+    margin: none;
+    width: 350px;
+    height: 50px;
+    background: none;
+    border: none;
+    cursor: pointer;
+
+}
+   
