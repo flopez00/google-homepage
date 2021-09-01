@@ -18,6 +18,7 @@ h1 {
     border-radius: 25px;
     border-style: solid;
     
+    
 }
 
 
@@ -60,6 +61,7 @@ h1 {
     margin: 10;
     overflow: hidden; 
     
+    
 }
 
 ul {
@@ -90,14 +92,33 @@ li a {
     border: none;
 }
 
-footer {
-    height: 100px;
-    background-color: rgb(233, 229, 229);
+.footerNav li {
+    padding:0px 15px;
+    margin: 10;
+    font-size: 12px; 
+    
+}
+
+footer ul {
     position: fixed;
     bottom: 0;
     width: 100%;
-    
+    background-color: lightgray;
 }
+
+footer li a {
+  padding:20px 10px;
+  
+}
+footer {
+  margin: 0px;
+
+}
+
+
+
+
+
 
 
 
